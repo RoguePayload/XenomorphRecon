@@ -27,34 +27,34 @@ _**XenomorphRecon** sequentially executes a series of reconnaissance commands, s
 _Using **XenomorphRecon** without authorization is illegal and unethical. Unauthorized scanning and reconnaissance can lead to severe legal consequences, including fines and imprisonment. Always ensure you have explicit permission before using this tool on any network or system._
 
 ## Questions & Answers
-1. **Q:** _What is the primary purpose of XenomorphRecon?_
+1. **Q:** _What is the primary purpose of XenomorphRecon?_  
    **A:** _To provide a comprehensive reconnaissance of a target network or system, identifying potential vulnerabilities._
 
-2. **Q:** _Can I use XenomorphRecon on any network?_
+2. **Q:** _Can I use XenomorphRecon on any network?_  
    **A:** _No, you must have explicit authorization to use this tool on any network or system._
 
-3. **Q:** _How do I know if a tool required by XenomorphRecon is not installed?_
+3. **Q:** _How do I know if a tool required by XenomorphRecon is not installed?_  
    **A:** _The script checks for required tools and notifies you if any are missing._
 
-4. **Q:** _Where are the results of the reconnaissance saved?_
+4. **Q:** _Where are the results of the reconnaissance saved?_  
    **A:** _The results are saved in a file named after the target, with a _recon.txt suffix._
 
-5. **Q:** _Can I discard the results after the reconnaissance?_
+5. **Q:** _Can I discard the results after the reconnaissance?_  
    **A:** _Yes, the script prompts you to save or discard the results at the end of the scan._
 
-6. **Q:** _Is the input validation strict in XenomorphRecon?_
+6. **Q:** _Is the input validation strict in XenomorphRecon?_  
    **A:** _Yes, the script validates input to ensure it is a valid URL, IP address, or IP address block._
 
-7. **Q:** _What happens if a tool like nmap is not installed?_
+7. **Q:** _What happens if a tool like nmap is not installed?_  
    **A:** _The script will notify you and exit, prompting you to install the missing tool._
 
-8. **Q:** _Can I customize the wordlist used by gobuster?_
+8. **Q:** _Can I customize the wordlist used by gobuster?_  
    **A:** _Yes, you can modify the script to use a different wordlist if needed._
 
-9. **Q:** _Does XenomorphRecon support both IPv4 and IPv6?_
+9. **Q:** _Does XenomorphRecon support both IPv4 and IPv6?_  
    **A:** _Yes, the tool supports scanning targets with both IPv4 and IPv6 addresses._
 
-10. **Q:** _How does the progress bar enhance user experience?_
+10. **Q:** _How does the progress bar enhance user experience?_  
     **A:** _The progress bar provides a visual indication of the script's progress, making it easier to know when a task is completed._
 
 ## Installation
